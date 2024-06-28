@@ -3,7 +3,7 @@
 Ubíquese en la **carpeta fuente del proyecto** deseado, use:
 
 ```
-cd <assignments/Proyecto>
+cd <assignments/NombreCarpeta>
 
 Ej.- cd assignments/Proyecto
 
