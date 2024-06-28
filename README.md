@@ -5,7 +5,7 @@ Ubíquese en la **carpeta fuente del proyecto** deseado, use:
 ```
 cd <assignments/Proyecto>
 
-Ej.- cd assignments/00-HelloWorld
+Ej.- cd assignments/Proyecto
 
 ```
 Regresar a una **carpeta anterior**, use:
